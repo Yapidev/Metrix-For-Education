@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <!-- Favicon -->
-    <link href="{{ asset('img/logo-matrixforedu.png') }}" rel="icon">
+    <link href="{{ asset('img/metrixforedu.png') }}" rel="icon">
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -58,6 +58,10 @@
     {{-- Navbar --}}
 
     @yield('content')
+
+    {{-- Footer --}}
+    <x-Footer />
+    {{-- Footer --}}
 
     {{-- STACK SCRIPT --}}
     @stack('script')

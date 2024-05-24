@@ -17,6 +17,26 @@ class PageController extends Controller
     }
 
     /**
+     * Return view event
+     *
+     * @return void
+     */
+    public function event()
+    {
+        return view('event');
+    }
+
+    /**
+     * Return view karir
+     *
+     * @return void
+     */
+    public function karir()
+    {
+        return view('karir');
+    }
+
+    /**
      * Return view about
      *
      * @return void

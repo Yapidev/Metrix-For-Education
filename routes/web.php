@@ -12,4 +12,6 @@ Route::controller(PageController::class)->group(function (){
     Route::get('tim-kami', 'timKami')->name('tim-kami');
     Route::get('testimoni', 'testimoni')->name('testimoni');
     Route::get('kontak', 'kontak')->name('kontak');
+    Route::get('event', 'event')->name('event');
+    Route::get('karir', 'karir')->name('karir');
 });

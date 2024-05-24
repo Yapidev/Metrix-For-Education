@@ -13,7 +13,7 @@
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="{{ route('home') }}" class="nav-item nav-link active" style="color: white;">Home</a>
                 {{-- Navbar Lama --}}
-                <a href="{{ route('about-us') }}" class="nav-item nav-link" style="color: white;">Tentang Kami</a>
+                {{-- <a href="{{ route('about-us') }}" class="nav-item nav-link" style="color: white;">Tentang Kami</a>
                 <a href="{{ route('layanan') }}" class="nav-item nav-link" style="color: white;">Layanan</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown"
@@ -26,13 +26,11 @@
                     </div>
                 </div>
                 <a href="{{ route('kontak') }}" class="nav-item nav-link" style="color: white;">Kontak</a>
-                <a href="https://forms.gle/1KX4y7j2syiTNAA79" class="nav-item nav-link" style="color: white;">Daftar
-                    Sekarang</a>
                 {{-- Navbar Lama --}}
 
                 {{-- Navbar Baru Belum Fix --}}
-                {{-- <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown"
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown" aria-expanded="false"
                         style="color: white;">Program</a>
                     <div class="dropdown-menu bg-light m-0">
                         <a href="#" class="dropdown-item">Program 1</a>
@@ -51,6 +49,8 @@
                         <a href="#" class="dropdown-item">Daftar Program</a>
                     </div>
                 </div>
+                <a href="{{ route('event') }}" class="nav-item nav-link" style="color: white;">Event</a>
+                <a href="{{ route('karir') }}" class="nav-item nav-link" style="color: white;">Karir</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown"
                         style="color: white;">Verifikasi</a>
@@ -61,17 +61,8 @@
                         <a href="#" class="dropdown-item">Verifikasi Sertifikat Event</a>
                     </div>
                 </div>
-                <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown"
-                        style="color: white;">Login</a>
-                    <div class="dropdown-menu bg-light m-0">
-                        <a href="#" class="dropdown-item">Login System ACP</a>
-                        <a href="#" class="dropdown-item">Login Portal Sertifikat</a>
-                        <a href="#" class="dropdown-item">E-learning</a>
-                    </div>
-                </div>
-                <a href="#" class="nav-item nav-link" style="color: white;">Event</a>
-                <a href="#" class="nav-item nav-link" style="color: white;">Karir</a> --}}
+                <a href="https://forms.gle/1KX4y7j2syiTNAA79" class="nav-item nav-link" style="color: white;">Daftar
+                    Sekarang</a>
                 {{-- Navbar Baru Belum Fix --}}
 
             </div>

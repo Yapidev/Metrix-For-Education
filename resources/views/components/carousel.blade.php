@@ -11,7 +11,8 @@
                                 <div class="col-lg-8 text-start">
                                     <p class="fs-4 text-white">Persiapkan Dirimu Menjadi Teknisi Smartphone Profesional
                                     </p>
-                                    <h1 class="display-4 text-white mb-5 animated slideInRight text-capitalize">Metrix mobile network and smartphone repair academy
+                                    <h1 class="display-4 text-white mb-5 animated slideInRight text-capitalize">Metrix
+                                        mobile network and smartphone repair academy
                                     </h1>
                                     <a href=""
                                         class="btn btn-secondary rounded-pill py-3 px-5 animated slideInRight">Pelajari
@@ -29,7 +30,8 @@
                                 <div class="col-lg-8 text-end">
                                     <p class="fs-4 text-white">Persiapkan Dirimu Menjadi Teknisi Smartphone Profesional
                                     </p>
-                                    <h1 class="display-4 text-white mb-5 animated slideInRight text-capitalize">Metrix mobile network and smartphone repair academy
+                                    <h1 class="display-4 text-white mb-5 animated slideInRight text-capitalize">Smart
+                                        People Behind Smartphone
                                     </h1>
                                     <a href=""
                                         class="btn btn-secondary rounded-pill py-3 px-5 animated slideInLeft">Pelajari
@@ -47,7 +49,8 @@
                                 <div class="col-lg-8 text-start">
                                     <p class="fs-4 text-white">Persiapkan Dirimu Menjadi Teknisi Smartphone Profesional
                                     </p>
-                                    <h1 class="display-4 text-white mb-5 animated slideInRight text-capitalize">Metrix mobile network and smartphone repair academy
+                                    <h1 class="display-4 text-white mb-5 animated slideInRight text-capitalize">Metrix
+                                        mobile network and smartphone repair academy
                                     </h1>
                                     <a href=""
                                         class="btn btn-secondary rounded-pill py-3 px-5 animated slideInRight">Pelajari
@@ -65,7 +68,8 @@
                                 <div class="col-lg-8 text-end">
                                     <p class="fs-4 text-white">Persiapkan Dirimu Menjadi Teknisi Smartphone Profesional
                                     </p>
-                                    <h1 class="display-4 text-white mb-5 animated slideInRight text-capitalize">Metrix mobile network and smartphone repair academy
+                                    <h1 class="display-4 text-white mb-5 animated slideInRight text-capitalize">Smart
+                                        People Behind Smartphone
                                     </h1>
                                     <a href=""
                                         class="btn btn-secondary rounded-pill py-3 px-5 animated slideInLeft">Pelajari

@@ -2,8 +2,8 @@
         <div class="container-xxl py-5">
             <div class="container">
                 <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                    <p class="section-title bg-white text-center text-primary px-3">Trainer</p>
-                    <h1 class="mb-5">Instruktur Berpengalaman</h1>
+                    <p class="section-title bg-white text-center text-primary px-3">Founder</p>
+                    <h1 class="mb-5">Founder Berpengalaman</h1>
                 </div>
                 <div class="row g-4">
                     <center>
@@ -20,6 +20,7 @@
                                     <a class="btn btn-square btn-outline-secondary rounded-circle mx-1"
                                         href=""><i class="fab fa-instagram"></i></a>
                                 </div>
+                                <img class="img-fluid" src="{{ asset('img/ttd-founder.png') }}" alt="ttd-founder">
                             </div>
                     </center>
                 </div>

@@ -9,7 +9,7 @@
             <center>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item rounded p-4">
-                        <img class="img-fluid rounded mb-4" src="img/team-1.jpg" alt="">
+                        <img class="img-fluid rounded mb-4" src="{{ asset('img/founder.jpg') }}" alt="founder">
                         <h5>Denny Den Bagus</h5>
                         <p class="text-primary">Founder & Master Trainer</p>
                         <div class="d-flex justify-content-center">
@@ -23,7 +23,7 @@
                                 <i class="fab fa-instagram"></i>
                             </a>
                         </div>
-                        <img class="img-fluid" src="{{ asset('img/ttd-founder.png') }}" alt="ttd-founder">
+                        <img class="img-fluid" src="{{ asset('img/ttd-founder-new.png') }}" alt="ttd-founder-new">
                     </div>
             </center>
         </div>

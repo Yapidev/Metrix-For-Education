@@ -33,7 +33,7 @@
             </div>
             <a href="{{ route('event') }}" class="nav-item nav-link" style="color: white;">Event</a>
             <a href="{{ route('karir') }}" class="nav-item nav-link" style="color: white;">Karir</a>
-            <a href="https://forms.gle/1KX4y7j2syiTNAA79" class="nav-item nav-link" style="color: white;">Daftar
+            <a href="https://forms.gle/6BXEiM37GFjtc7cJ9" class="nav-item nav-link" style="color: white;">Daftar
                 Sekarang</a>
         </div>
     </div>

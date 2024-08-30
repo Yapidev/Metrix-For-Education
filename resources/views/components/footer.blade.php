@@ -13,8 +13,7 @@
                 <p class="mb-2"><a href="https://wa.me/+6282121636188" target="_blank" rel="noopener noreferrer"><i
                             class="fa fa-phone-alt me-3"></i><a href="https://wa.me/+6282121636188" target="_blank"
                             rel="noopener noreferrer"></a><a href="https://wa.me/+6282121636188" target="_blank"
-                            rel="noopener noreferrer">+62 821
-                            2163 6188</a></p>
+                            rel="noopener noreferrer">+62 821-1006-9004</a></p>
                 <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@metrixflasher.com</p>
                 <div class="d-flex pt-3">
                     <a class="btn btn-square btn-secondary rounded-circle me-2"

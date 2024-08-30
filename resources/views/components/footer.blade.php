@@ -10,9 +10,9 @@
                         href="https://www.google.com/maps/place/MetrixFlasher+Kursus+Service+HP+Bandung/@-6.9457409,107.6576358,17z/data=!3m1!4b1!4m6!3m5!1s0x2e68e99d9383b3d5:0x36e2207c2a6d35f5!8m2!3d-6.9457462!4d107.6602107!16s%2Fg%2F11h4w1_hsd?entry=ttu"
                         target="_blank" rel="noopener noreferrer">Jupiter IX no 4 blok G2 RT06 RW 02, Sekejati,
                         Kec. Buahbatu, Kota Bandung, Jawa Barat 40286</a></p>
-                <p class="mb-2"><a href="https://wa.me/+6282121636188" target="_blank" rel="noopener noreferrer"><i
-                            class="fa fa-phone-alt me-3"></i><a href="https://wa.me/+6282121636188" target="_blank"
-                            rel="noopener noreferrer"></a><a href="https://wa.me/+6282121636188" target="_blank"
+                <p class="mb-2"><a href="https://wa.me/+6282110069004" target="_blank" rel="noopener noreferrer"><i
+                            class="fa fa-phone-alt me-3"></i><a href="https://wa.me/+6282110069004" target="_blank"
+                            rel="noopener noreferrer"></a><a href="https://wa.me/+6282110069004" target="_blank"
                             rel="noopener noreferrer">+62 821-1006-9004</a></p>
                 <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@metrixflasher.com</p>
                 <div class="d-flex pt-3">

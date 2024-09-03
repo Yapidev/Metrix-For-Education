@@ -14,4 +14,5 @@ Route::controller(PageController::class)->group(function (){
     Route::get('kontak', 'kontak')->name('kontak');
     Route::get('event', 'event')->name('event');
     Route::get('karir', 'karir')->name('karir');
+    Route::get('katalog', 'katalog')->name('katalog');
 });

@@ -35,6 +35,17 @@ class PageController extends Controller
     }
 
     /**
+     * Return view karir
+     *
+     * @return void
+     */
+    public function katalog()
+    {
+        return view('katalog');
+    }
+    
+
+    /**
      * Return view about
      *
      * @return void

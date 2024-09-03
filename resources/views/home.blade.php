@@ -35,6 +35,14 @@
         <x-team />
         {{-- Team --}}
 
+        {{-- Bergabung --}}
+        <x-bergabung />
+        {{-- Bergabung --}}
+
+        {{-- Partner --}}
+        <x-partner />
+        {{-- Partner --}}
+
         {{-- Testimonial --}}
         <x-testimonial />
         {{-- Testimonial --}}

@@ -29,12 +29,13 @@
                     <a href="#" class="dropdown-item">Download Portofolio</a>
                     <a href="#" class="dropdown-item">Alur Kerja Sama</a>
                     <a href="#" class="dropdown-item">Daftar Program</a>
+                    <a href="{{ route('katalog') }}" class="dropdown-item">Katalog</a>
                 </div>
             </div>
-            <a href="{{ route('event') }}" class="nav-item nav-link" style="color: white;">Event</a>
+            <a href="https://forms.gle/nJyZcrqjfCurnbLf7" class="nav-item nav-link" style="color: white;">Mitra Kerjasama</a>
             <a href="{{ route('karir') }}" class="nav-item nav-link" style="color: white;">Karir</a>
-            <a href="https://forms.gle/6BXEiM37GFjtc7cJ9" class="nav-item nav-link" style="color: white;">Daftar
-                Sekarang</a>
+            <!-- <a href="https://forms.gle/6BXEiM37GFjtc7cJ9" class="nav-item nav-link" style="color: white;">Daftar
+                Sekarang</a> -->
         </div>
     </div>
 </nav>

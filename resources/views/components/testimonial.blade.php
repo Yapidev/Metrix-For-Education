@@ -8,20 +8,20 @@
         <div class="row g-5 align-items-center">
             <div class="col-lg-5 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="testimonial-img">
-                    <img class="img-fluid animated pulse infinite" src="{{ asset('img/testimonial-1.jpg') }}"
+                    <img class="img-fluid animated pulse infinite" src="{{ asset('img/avatar.jpg') }}"
                         alt="">
-                    <img class="img-fluid animated pulse infinite" src="{{ asset('img/testimonial-2.jpg') }}"
+                    <img class="img-fluid animated pulse infinite" src="{{ asset('img/avatar.jpg') }}"
                         alt="">
-                    <img class="img-fluid animated pulse infinite" src="{{ asset('img/testimonial-3.jpg') }}"
+                    <img class="img-fluid animated pulse infinite" src="{{ asset('img/avatar.jpg') }}"
                         alt="">
-                    <img class="img-fluid animated pulse infinite" src="{{ asset('img/testimonial-4.jpg') }}"
+                    <img class="img-fluid animated pulse infinite" src="{{ asset('img/avatar.jpg') }}"
                         alt="">
                 </div>
             </div>
             <div class="col-lg-7 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="owl-carousel testimonial-carousel">
                     <div class="testimonial-item">
-                        <img class="img-fluid mb-3" src="{{ asset('img/testimonial-1.jpg') }}" alt="">
+                        <img class="img-fluid mb-3" src="{{ asset('img/avatar.jpg') }}" alt="">
                         <p class="fs-5">
                             Saya adalah alumni Metrix Flasher Indonesia tahun 2014. Pengajarannya sangat simpel, mudah
                             dipahami, mendetail, dan diajarkan dari dasar. Saya adalah mantan pegawai bank, dan sekarang
@@ -33,7 +33,7 @@
                         <span class="text-primary">NSA Cell</span>
                     </div>
                     <div class="testimonial-item">
-                        <img class="img-fluid mb-3" src="{{ asset('img/testimonial-2.jpg') }}" alt="">
+                        <img class="img-fluid mb-3" src="{{ asset('img/avatar.jpg') }}" alt="">
                         <p class="fs-5">
                             Saya adalah alumni tahun 2017. Dulu, saya tidak memiliki dasar pengetahuan elektronika.
                             Namun, setelah belajar di Metrix Flasher, alhamdulillah, saya bisa memiliki toko sendiri dan
@@ -45,7 +45,7 @@
                         <span class="text-primary">Old City Flasher</span>
                     </div>
                     <div class="testimonial-item">
-                        <img class="img-fluid mb-3" src="{{ asset('img/testimonial-3.jpg') }}" alt="">
+                        <img class="img-fluid mb-3" src="{{ asset('img/avatar.jpg') }}" alt="">
                         <p class="fs-5">
                             Saya adalah alumni Metrix Flasher tahun 2015. Pengalaman saya belajar di
                             Metrix Flasher sangat memuaskan. Alhamdulillah, saya dididik dengan pengetahuan elektronika
@@ -56,7 +56,7 @@
                         <span class="text-primary">Silver Cell</span>
                     </div>
                     <div class="testimonial-item">
-                        <img class="img-fluid mb-3" src="{{ asset('img/testimonial-4.jpg') }}" alt="">
+                        <img class="img-fluid mb-3" src="{{ asset('img/avatar.jpg') }}" alt="">
                         <p class="fs-5">
                             Saya adalah alumni Metrix Flasher Indonesia. Alhamdulillah, saya sudah 6 tahun menjadi
                             teknisi handphone. Setelah belajar di Metrix Flasher Indonesia, saya bisa berkembang mandiri

@@ -20,16 +20,16 @@
                     <a href="#" class="dropdown-item">Guru Tamu / Praktisi Mengajar</a>
                     <a href="#" class="dropdown-item">Sinkronisasi Kurikulum</a>
                     <a href="#" class="dropdown-item">Project Rill</a>
-                    <a href="#" class="dropdown-item">Uji Kompetensi (UKK)</a>
+                    <a href="{{ asset('pdf/Usulan Proyek.pdf') }}" class="dropdown-item" download>Uji Kompetensi (UKK)</a>
                 </div>
             </div>
             <div class="nav-item dropdown">
                 <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown"
                     style="color: white;">Bergabung</a>
                 <div class="dropdown-menu bg-light m-0">
-                    <a href="#" class="dropdown-item">Download Portofolio</a>
-                    <a href="#" class="dropdown-item">Alur Kerja Sama</a>
-                    <a href="#" class="dropdown-item">Daftar Program</a>
+                    <a href="{{ asset('pdf/Portofolio Matrix.pdf') }}" class="dropdown-item" download>Download Portofolio</a>
+                    <a href="{{ route('alur-kerja-sama') }}" class="dropdown-item">Alur Kerja Sama</a>
+                    <a href="{{ route('daftar-program') }}" class="dropdown-item">Daftar Program</a>
                     <a href="{{ route('katalog') }}" class="dropdown-item">Katalog</a>
                 </div>
             </div>

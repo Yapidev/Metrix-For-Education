@@ -15,4 +15,10 @@ Route::controller(PageController::class)->group(function (){
     Route::get('event', 'event')->name('event');
     Route::get('karir', 'karir')->name('karir');
     Route::get('katalog', 'katalog')->name('katalog');
+    Route::get('/alur-kerja-sama', function () {
+        return view('alur-kerja-sama');
+    })->name('alur-kerja-sama');
+    Route::get('/daftar-program', function () {
+        return view('daftar-program');
+    })->name('daftar-program');
 });

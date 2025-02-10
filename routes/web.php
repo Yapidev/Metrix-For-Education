@@ -15,6 +15,6 @@ Route::controller(PageController::class)->group(function (){
     Route::get('event', 'event')->name('event');
     Route::get('karir', 'karir')->name('karir');
     Route::get('katalog', 'katalog')->name('katalog');
-    Route::get('/alur-kerja-sama', 'alurKerjaSama')->name('alur-kerja-sama');
-    Route::get('/daftar-program', 'daftarProgram')->name('daftar-program');
+    Route::get('alur-kerja-sama', 'alurKerjaSama')->name('alur-kerja-sama');
+    Route::get('daftar-program', 'daftarProgram')->name('daftar-program');
 });

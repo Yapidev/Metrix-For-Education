@@ -1,8 +1,11 @@
-<?php
-
 use App\Http\Controllers\PageController;
 use Illuminate\Support\Facades\Route;
 
+Route::get('katalog', [PageController::class, 'katalog'])->name('katalog');
+Route::get('alur-kerja-sama', [PageController::class, 'alurKerjaSama'])->name('alur-kerja-sama');
+Route::get('daftar-program', [PageController::class, 'daftarProgram'])->name('daftar-program');
+
+// Other routes can remain in the controller group if desired
 Route::controller(PageController::class)->group(function (){
     Route::get('/', 'home')->name('home');
     Route::get('about-us', 'aboutUs')->name('about-us');
@@ -14,7 +17,4 @@ Route::controller(PageController::class)->group(function (){
     Route::get('kontak', 'kontak')->name('kontak');
     Route::get('event', 'event')->name('event');
     Route::get('karir', 'karir')->name('karir');
-    Route::get('katalog', 'katalog')->name('katalog');
-    Route::get('alur-kerja-sama', [PageController::class, 'alurKerjaSama'])->name('alur-kerja-sama');
-    Route::get('daftar-program', 'daftarProgram')->name('daftar-program');
 });

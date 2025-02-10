@@ -114,4 +114,17 @@ class PageController extends Controller
     {
         return view('kontak');
     }
+
+    // Return view alur kerjasama
+    public function alurKerjaSama()
+    {
+        return view('alur-kerja-sama');
+    }
+
+
+    // Return daftar program
+    public function daftarProgram()
+    {
+        return view('daftar-program');
+    }
 }

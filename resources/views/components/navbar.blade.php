@@ -28,7 +28,7 @@
                     style="color: white;">Bergabung</a>
                 <div class="dropdown-menu bg-light m-0">
                     <a href="{{ asset('pdf/Portofolio Matrix.pdf') }}" class="dropdown-item" download>Download Portofolio</a>
-                    <a href="{{ route('alur-kerja-sama') }}" class="dropdown-item">Alur Kerja Sama</a>
+                    <a href="{{ route('alur-kerja-sama') }}" class="dropdown-item">Alur Kerjasama</a>
                     <a href="{{ route('daftar-program') }}" class="dropdown-item">Daftar Program</a>
                     <a href="{{ route('katalog') }}" class="dropdown-item">Katalog</a>
                 </div>
